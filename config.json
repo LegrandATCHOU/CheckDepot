@@ -1,0 +1,17 @@
+{
+  "atelier": {
+    "nom": "LegrandFix",
+    "contact": "Coordonnées de l'atelier à compléter"
+  },
+  "prestations": {
+    "systeme":     { "libelle": "Passage à Windows 11 ou solution adaptée", "tarif": "sur devis" },
+    "maj":         { "libelle": "Mise à jour complète du système", "tarif": "à définir" },
+    "antivirus":   { "libelle": "Installation et réglage de la protection", "tarif": "à définir" },
+    "parefeu":     { "libelle": "Réactivation et réglage du pare-feu", "tarif": "à définir" },
+    "chiffrement": { "libelle": "Activation du chiffrement BitLocker avec sauvegarde de la clé", "tarif": "à définir" },
+    "admins":      { "libelle": "Création d'un compte utilisateur standard", "tarif": "à définir" },
+    "invite":      { "libelle": "Sécurisation des comptes et mots de passe", "tarif": "à définir" },
+    "sauvegarde":  { "libelle": "Mise en place d'une sauvegarde automatique", "tarif": "à définir" },
+    "disque":      { "libelle": "Nettoyage du disque", "tarif": "à définir" }
+  }
+}
