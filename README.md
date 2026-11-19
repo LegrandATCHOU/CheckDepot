@@ -2,6 +2,8 @@
 
 **Le bilan sécurité qu'un réparateur remet à son client à chaque PC déposé.**
 
+![Exemple de rapport CheckDépôt](capture-rapport.png)
+
 Les outils d'audit Windows existent déjà, mais ils parlent aux experts. CheckDépôt parle au client : une page en français simple, une note sur 100, un code couleur et les 3 actions à faire en priorité. Pour le réparateur, chaque problème trouvé devient une prestation qu'il peut proposer.
 
 > Projet en cours (semaine 1). Testé sur : *à compléter après les tests*.
